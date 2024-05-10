@@ -1,2 +1,2 @@
 # ToDo-App
-Adding, deleting,  and updating ToDo tasks
+Fetching data and add, edit, cancel, update ToDo Tasks
